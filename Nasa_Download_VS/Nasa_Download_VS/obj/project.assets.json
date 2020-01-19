@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Source\\Repos\\Nasa_Download_VS\\Nasa_Download_VS\\Nasa_Download_VS.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\Nasa_Download\\Nasa_Download_VS\\Nasa_Download_VS\\Nasa_Download_VS.csproj",
       "projectName": "Nasa_Download_VS",
-      "projectPath": "C:\\Users\\andre\\Source\\Repos\\Nasa_Download_VS\\Nasa_Download_VS\\Nasa_Download_VS.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\Nasa_Download\\Nasa_Download_VS\\Nasa_Download_VS\\Nasa_Download_VS.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Source\\Repos\\Nasa_Download_VS\\Nasa_Download_VS\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\Nasa_Download\\Nasa_Download_VS\\Nasa_Download_VS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
