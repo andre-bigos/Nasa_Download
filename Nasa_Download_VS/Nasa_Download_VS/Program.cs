@@ -93,6 +93,10 @@ namespace Nasa_Download_VS
 				WriteToErrorLog("Unable to Reach URL: " + url + "\nFor photos from date: " + date.ToString("yyyy-MM-dd") + "\n" + e);
 				return new List<string>();
 			}
+
+			/// Awful way of doing it, but given the time constraints, it works, and it works reliably.
+			/// This should be expanded to be more versatile. It's truly a waste of a well formatted data set.
+			/// But to be fair, it does work. Improve later, make it easier to add further functionality.
 			string[] splitData = dataForDate.Split('"');
 			for (int x = 0; x < splitData.Length - 2; x++)
 			{
